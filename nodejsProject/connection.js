@@ -1,8 +1,10 @@
+
+// Mysql Connectivity code
 var mysql = require('mysql');  
 var con = mysql.createConnection({  
   host: "localhost",  
   user: "root",  
-  password: "gaurav5353" ,
+  password: "gXXXXXXXX" ,
   database: 'gk',
   port: '3307' 
 });  
